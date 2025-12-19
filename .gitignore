@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Streamlit
+.streamlit/
