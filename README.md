@@ -26,4 +26,4 @@ streamlit run src/app.py
 ```
 
 ### Standalone Executable
-If built, double-click `QR Generator.exe`.
+Click this link: https://qr-code-generator-jay.streamlit.app/
